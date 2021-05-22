@@ -16,14 +16,6 @@ p {
   font-family: Georgia, serif;
 }
 
-/* div {
-  border-left:1em solid transparent;
-  border-right:1em solid transparent;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  overflow: hidden;
-} */
-
 img {
   width: 100%;
   height: auto;
@@ -50,12 +42,6 @@ form {
   border-radius: 25px;
   border: 1px solid gray;
   box-shadow: 5px 5px 5px black;
-
-  /* border-left:1em solid transparent;
-  border-right:1em solid transparent; */
-  text-overflow: scroll;
-  /* white-space: nowrap; */
-  /* overflow: hidden; */
 }
 
 .right {
