@@ -71,6 +71,10 @@ margin-left: 10px;
   text-align: center;
 }
 
+.menuespace {
+  width: 20%;
+}
+
 .menuetitle {
   font-family: vivaldi, Brush Script MT, fantasy;
   font-weight: bold;
