@@ -3,7 +3,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: verdana, sans-serif;
+  font-family: Verdana, sans-serif;
   font-weight: bold;
 }
 
@@ -29,7 +29,6 @@ iframe {
 
 form {
   display: inline;
-  method: get;
 }
 
 /* img {
@@ -81,7 +80,7 @@ margin-left: 10px;
 }
 
 .menuetitle {
-  font-family: vivaldi, Brush Script MT, fantasy;
+  font-family: Vivaldi, "Brush Script MT", fantasy;
   font-weight: bold;
   font-size: 3em;
 }
