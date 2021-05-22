@@ -7,6 +7,54 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
+body {
+  background-color: LightGray;
+  margin-top: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 10px;
+}
+
+
+/* img {
+  object-fit:cover;
+} */
+
+.textblock {
+  background-color: white;
+  margin-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-radius: 25px;
+  border: 1px solid gray;
+  box-shadow: 5px 5px 5px black;
+  /* object-fit:cover; */
+}
+
+.right {
+float: right;
+margin-left: 10px;
+}
+
+.licence {
+  font-size: 7px;
+  color: grey;
+  text-align: right;
+}
+
+.importanttext {
+  font-weight: bold;
+  color: #ff0000;
+}
+
+.menuetitle {
+  font-family: vivaldi, Brush Script MT, fantasy;
+  font-weight: bold;
+  font-size: 3em;
+}
+
 .pushbutton {
   font-family: Georgia, serif;
   background-color: #04AA6D;
@@ -16,9 +64,7 @@ h1, h2, h3, h4, h5, h6 {
   border: none;
 }
 
-/* .button:hover {background-color: #ddd;} */
 .pushbutton:hover .pushbutton {background-color: #3e8e41;}
-
 
 .menuebutton {
   background-color: #04AA6D;
