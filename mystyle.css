@@ -27,6 +27,11 @@ iframe {
   max-width: 100%;
 }
 
+form {
+  display: inline;
+  method: get;
+}
+
 /* img {
   object-fit:cover;
 } */
