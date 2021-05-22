@@ -53,9 +53,9 @@ form {
 
   /* border-left:1em solid transparent;
   border-right:1em solid transparent; */
-  text-overflow: ellipsis;
+  text-overflow: scroll;
   /* white-space: nowrap; */
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .right {
